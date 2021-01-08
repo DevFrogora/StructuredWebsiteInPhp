@@ -1,0 +1,34 @@
+.res_line {
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.res_link_doc {
+
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(248, 248, 248);
+
+}
+
+.res_content {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.resourceSection {
+    padding-top: 20px;
+}
+
+#rec_link_color {
+    color: rgb(55, 123, 248);
+}
+
+.Resources_heading {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(167, 132, 248);
+}

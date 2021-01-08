@@ -1,0 +1,31 @@
+ul.topbarul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8;
+    overflow: hidden;
+    background-color: #FFFFFF;
+
+}
+
+.topbarlist{
+    float: left;
+}
+
+.topbarlist{
+    display: block;
+    color: #808080;
+    text-align: center;
+    padding: 2px 16px;
+    text-decoration: none;
+
+}
+
+.active {
+    color: #000000;
+    font-size: 30px;
+    padding-left: 10em
+}
+
+ul.topbarul {
+    box-shadow: 0px 6px 6px grey;
+}

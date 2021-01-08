@@ -1,0 +1,32 @@
+@import url('./css/centerContent.css');
+@import url('./css/centerContent1.css');
+
+@import url('./css/chat.css');
+@import url('./css/centerContent2.css');
+
+@import url('./css/fontstyle.css');
+@import url('./css/heading.css');
+
+@import url('./css/outerChat.css');
+@import url('./css/projectname.css');
+
+@import url('./css/resources.css');
+@import url('./css/skeleton.css');
+
+@import url('./css/TopPageheading.css');
+@import url('./css/userTraffic.css');
+
+
+/* 
+    <link rel="stylesheet" type="text/css" href="skeleton.css">
+    <link rel="stylesheet" type="text/css" href="TopPageheading.css">
+    <link rel="stylesheet" type="text/css" href="heading.css">
+    <link rel="stylesheet" type="text/css" href="centerContent.css">
+    <link rel="stylesheet" type="text/css" href="centerContent1.css">
+    <link rel="stylesheet" type="text/css" href="centerContent2.css">
+    <link rel="stylesheet" type="text/css" href="projectname.css">
+    <link rel="stylesheet" type="text/css" href="chat.css">
+    <link rel="stylesheet" type="text/css" href="fontstyle.css">
+    <link rel="stylesheet" type="text/css" href="outerChat.css">
+    <link rel="stylesheet" type="text/css" href="resources.css">
+*/

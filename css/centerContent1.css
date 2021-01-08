@@ -1,0 +1,32 @@
+.textInContainer_after_metadata{
+    font-size: 15px;
+    padding-right:20px;
+    padding-top: 20px;
+    text-align: justify;
+    line-height: 1.6;
+    margin:40px
+
+}
+
+#textInContainer_after_metadata_bold{
+    padding-left: 60px;
+    font-size: 30px;
+    padding-right: 10px;
+}
+#left_curly_bracket{
+    color: rgb(253, 108, 71);
+}
+#right_curly_bracket{
+    color: rgb(253, 108, 71);
+}
+#property_name{
+    color: rgb(15, 159, 248);
+}
+#comma{
+
+    color: rgb(94, 252, 94);
+}
+#lms_android_features{
+    display: block;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+.userTraffic{
+    font-family: 'myRobotfont';
+    background-color: rgb(196, 248, 143);
+    color: rgb(78, 78, 78);
+    font-size: small;
+    font-weight: bold;
+}
+.visit{
+    position: absolute;
+    right: 0;
+    padding: 0px;
+    margin-right: 20px;
+/*     width: 100px;
+    height: 30px;*/
+    border: 1px solid rgba(40, 86, 238, 0.966);
+    color: rgb(5, 9, 252);
+}
+.watching{
+    background-color: rgb(44, 44, 44);
+    color: rgb(255, 255, 255);
+}
+/* .userRow{
+    display: flex;
+    align-items: center;
+}
+.userlist{
+    align-items: center;
+}
+*/
+.liveUserImg{
+    display: flex;
+    align-items: center;
+}

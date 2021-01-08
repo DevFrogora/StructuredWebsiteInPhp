@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+html, 
+body {
+    height: 100%;
+}
+/* Create three unequal columns that floats next to each other */
+.column1 {
+  float: left;
+  padding: 10px;
+  height: 0%;
+  /* Should be removed. Only for demonstration */
+}
+
+.column2 {
+  position: relative;
+  float: left;
+  padding: 10px;
+  height: 0%;
+  /* Should be removed. Only for demonstration */
+}
+
+.column3 {
+  float: left;
+  padding: 10px;
+  height: 0%;
+  
+  /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 20%;
+}
+
+.middle {
+  width: 65%;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.projectlistBox {
+  border-style: solid;
+  height: 100%;
+  border-width: 1px;
+  
+  border-color: rgb(203, 201, 204);
+}
+
+.currentProjectInfo {
+  border-style: solid;
+  height: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+}
+
+.currentProjectInfo {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.platformName {
+ padding: 0px;
+}
+
+.extraTextHeading {
+  padding-top: 30px;
+}
+
+.extraTextBody {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.projectlistBox {
+  padding-left: 30px;
+}
+
+.projectBoxHeading {
+  padding-top: 30px;
+}
+
+.projectlist {
+  padding-left: 15px;
+  padding-top: 15px;
+}

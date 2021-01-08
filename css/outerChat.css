@@ -1,0 +1,44 @@
+.Topcontainer {
+    background-color: lightblue;
+    width: 100%;
+    height: 500px;
+    overflow: scroll;
+  }
+  textarea {
+    resize: none;
+  }
+  #username {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 10px ;
+    box-sizing: border-box;
+   
+  }
+  #textarea{
+      width: 60%;
+      padding: 12px 20px;
+      margin: 10px;
+  }
+  .commentrow{
+      display: flex;
+      align-items: center;
+  }
+  #chatsubmit{
+   
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0px;
+    cursor: pointer;
+  }
+  .username{
+    color: #0011ff;
+    background-color: rgb(243, 213, 148);
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+  }
+  

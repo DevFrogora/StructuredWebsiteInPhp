@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'myfont';
+    src: url(./font/Sansation_Light.ttf);
+  }
+  @font-face {
+    font-family: 'myRobotfont';
+    src: url(./font/Roboto-Thin.ttf);
+  }
+  .textInContainer_after_metadata {
+    font-family: 'myfont';
+  }  
+

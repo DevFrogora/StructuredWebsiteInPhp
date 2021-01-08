@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+    <projects>
+        <LibraryManagememtSystem>
+            <main>
+                <text>LibraryManagememtSystem</text>
+                <link>http://localhost/mainpage/main.php</link>
+            </main>
+
+        </LibraryManagememtSystem>
+        <newLibraryManagememtSystem>
+            <main>
+                <text>new</text>
+                <link></link>
+            </main>
+
+        </newLibraryManagememtSystem>
+    </projects>
+</pages>

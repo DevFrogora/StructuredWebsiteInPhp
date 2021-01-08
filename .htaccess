@@ -1,0 +1,8 @@
+ErrorDocument 404 /mainpage/content/lms/404.html
+
+Options -Indexes 
+
+#Allow From Localhost
+#order deny,allow
+#allow from ::1
+#deny from all
